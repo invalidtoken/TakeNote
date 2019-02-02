@@ -1,4 +1,4 @@
-# ![NoteApp](https://github.com/invalidtoken/TakeNote/blob/master/public/icons/notepad.png "App Logo")
+# NoteApp ![App Logo](https://github.com/invalidtoken/TakeNote/blob/master/public/icons/notepad.png "App Logo")
 NoteApp is a notes taking application that stores all the notes in browser's LocalStorage. The application uses responsive design philosophy to properly render the components on all sort of device widths. This App also uses Webpack to provide ES6 modules, development server, support for babel and babel polyfills. Babel is configured so that the app can be used in older or newer browsers.
 
 ## Motivation
