@@ -1,5 +1,5 @@
-# NoteApp ![App Logo](https://github.com/invalidtoken/TakeNote/blob/master/public/icons/notepad.png "App Logo")
-NoteApp is a notes taking application that stores all the notes in browser's LocalStorage. The application uses responsive design philosophy to properly render the components on all sort of device widths. This App also uses Webpack to provide ES6 modules, development server, support for babel and babel polyfills. Babel is configured so that the app can be used in older or newer browsers.
+# TakeNote ![App Logo](https://github.com/invalidtoken/TakeNote/blob/master/public/icons/notepad.png "App Logo")
+TakeNote is a notes taking application that stores all the notes in browser's LocalStorage. The application uses responsive design philosophy to properly render the components on all sort of device widths. This App also uses Webpack to provide ES6 modules, development server, support for babel and babel polyfills. Babel is configured so that the app can be used in older or newer browsers.
 
 ## Motivation
 I build this application as one of the projects in my Modern JavaScript Development Bootcamp. The main purpose of creating this application was to practice modern javascript features like ES6 modules, ES6 classes, higher-order array functions, DOM manipulation, DOM event handling, async/await, Promise API and Browser LocalStorage API. One of the most important aspects of creating this application was to use webpack and babel in the development environment and I had a lot of fun doing that. 
@@ -49,7 +49,7 @@ Now open you preferred browser and go to http://localhost:8080. Note that the po
 * [Moment.js](https://momentjs.com/) - Moment is used to provide all the time related features of the app. 
 
 ### Live Version
-See the live version of the application here - [NoteApp](https://invalidtokennotesapp.netlify.com/)
+See the live version of the application here - [TakeNote](https://invalidtokennotesapp.netlify.com/)
 
 ### Feedback
 For any feedback or suggestion on the application you can reach out to me on twitter [@invalidtoken](https://twitter.com/invalidtoken)
