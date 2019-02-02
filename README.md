@@ -40,6 +40,11 @@ To run the project on your local machine just type the command written below in 
 npm run dev-server
 ```
 
+To build the application for deployment run the below command in the terminal and then use the public folder to deploy the application.
+```
+npm run build
+```
+
 Now open you preferred browser and go to http://localhost:8080. Note that the port number can be different. To find out the port number just look at the logs in the terminal, the terminal logs has all the information about the local server. 
 
 ### Built With
